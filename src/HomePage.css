@@ -1,0 +1,10 @@
+.homepage {
+  display: flex;
+}
+.homepage-nav {
+  flex: 0.2;
+}
+
+.homepage-timeline {
+  flex: 0.8;
+}

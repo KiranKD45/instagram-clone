@@ -1,0 +1,46 @@
+.suggestions {
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.suggestion-title {
+  color: grey;
+  font-weight: bold;
+}
+.username-left {
+  display: flex;
+}
+
+.username-info {
+  display: flex;
+  flex-direction: column;
+}
+.relation {
+  color: grey;
+  font-size: 12px;
+}
+.suggestion-username {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.follow-btn {
+  color: #0095f7;
+  font-weight: bold;
+  background: 0;
+  border: 0;
+}
+
+.follow-btn:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+.username {
+  font-weight: 600;
+  font-size: 14px;
+}
+.avatar {
+  margin-right: 10px;
+}
